@@ -1,0 +1,11 @@
+{
+    "id": "clean-links",
+    "name": "Clean Links",
+    "version": "0.1.0",
+    "description": "Strip tracking parameters and redirect wrappers from links",
+    "author": "georgemandis",
+    "type": "script",
+    "platforms": ["macos", "linux", "windows"],
+    "entry": "index.js",
+    "config": {}
+}
